@@ -1,4 +1,4 @@
-# Interactive Banner Generator
+# Interactive Banner Design
 
 A modern, interactive web application built with Next.js that allows users to create customizable 3D banners with dynamic particle effects.
 

@@ -1,4 +1,4 @@
-# Interactive Banner Design
+# Interactive Banner Web App Design
 
 A modern, interactive web application built with Next.js that allows users to create customizable 3D banners with dynamic particle effects.
 
@@ -73,6 +73,4 @@ A modern, interactive web application built with Next.js that allows users to cr
   - `ui/` - Radix UI components
   - `particles.tsx` - Particle effect component
 
-## License
 
-MIT
